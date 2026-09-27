@@ -1,0 +1,505 @@
+frame,time_s,knee_angle_deg,feedback,clinical_flexion_deg,min_landmark_visibility,rep,rep_feedback,other_leg_angle_deg,other_leg_min_visibility
+0,0.0,87.31,Good range of motion,92.69,0.939,1,Good range of motion,78.64,0.289
+1,0.035,88.52,Good range of motion,91.48,0.94,1,Good range of motion,84.66,0.312
+2,0.068,88.63,Good range of motion,91.37,0.941,1,Good range of motion,88.78,0.335
+3,0.102,89.41,Good range of motion,90.59,0.941,1,Good range of motion,82.63,0.356
+4,0.135,90.51,Good range of motion,89.49,0.944,1,Good range of motion,86.29,0.377
+5,0.168,91.88,Good range of motion,88.12,0.943,1,Good range of motion,87.21,0.394
+6,0.202,92.44,Good range of motion,87.56,0.944,1,Good range of motion,91.78,0.403
+7,0.235,93.15,Good range of motion,86.85,0.943,1,Good range of motion,77.96,0.418
+8,0.268,93.64,Good range of motion,86.36,0.94,1,Good range of motion,76.47,0.426
+9,0.302,93.96,Good range of motion,86.04,0.934,1,Good range of motion,74.14,0.425
+10,0.335,93.99,Good range of motion,86.01,0.928,1,Good range of motion,80.16,0.422
+11,0.368,94.3,Good range of motion,85.7,0.923,1,Good range of motion,53.27,0.436
+12,0.402,95.34,Good range of motion,84.66,0.921,1,Good range of motion,66.73,0.437
+13,0.435,95.62,Good range of motion,84.38,0.914,1,Good range of motion,62.22,0.454
+14,0.468,95.54,Good range of motion,84.46,0.909,1,Good range of motion,48.38,0.485
+15,0.502,95.95,Good range of motion,84.05,0.906,1,Good range of motion,55.26,0.508
+16,0.535,96.13,Good range of motion,83.87,0.898,1,Good range of motion,68.5,0.522
+17,0.568,96.18,Good range of motion,83.82,0.899,1,Good range of motion,52.78,0.547
+18,0.602,95.58,Good range of motion,84.42,0.904,1,Good range of motion,60.96,0.564
+19,0.635,94.44,Good range of motion,85.56,0.909,1,Good range of motion,92.34,0.576
+20,0.668,93.67,Good range of motion,86.33,0.914,1,Good range of motion,96.21,0.585
+21,0.702,93.27,Good range of motion,86.73,0.919,1,Good range of motion,94.24,0.584
+22,0.735,90.86,Good range of motion,89.14,0.923,1,Good range of motion,90.84,0.581
+23,0.768,88.93,Good range of motion,91.07,0.927,1,Good range of motion,89.77,0.576
+24,0.802,88.03,Good range of motion,91.97,0.931,1,Good range of motion,89.31,0.571
+25,0.835,87.6,Good range of motion,92.4,0.935,1,Good range of motion,89.63,0.573
+26,0.868,87.5,Good range of motion,92.5,0.939,1,Good range of motion,89.76,0.57
+27,0.902,87.37,Good range of motion,92.63,0.942,1,Good range of motion,89.77,0.568
+28,0.935,88.25,Good range of motion,91.75,0.944,1,Good range of motion,90.1,0.578
+29,0.968,89.15,Good range of motion,90.85,0.947,1,Good range of motion,92.58,0.591
+30,1.002,89.54,Good range of motion,90.46,0.946,1,Good range of motion,65.01,0.601
+31,1.035,89.79,Good range of motion,90.21,0.942,1,Good range of motion,50.28,0.615
+32,1.068,90.51,Good range of motion,89.49,0.941,1,Good range of motion,48.18,0.633
+33,1.102,90.98,Good range of motion,89.02,0.938,1,Good range of motion,27.58,0.645
+34,1.135,90.67,Good range of motion,89.33,0.938,1,Good range of motion,36.29,0.649
+35,1.168,90.17,Good range of motion,89.83,0.938,1,Good range of motion,46.03,0.659
+36,1.202,90.36,Good range of motion,89.64,0.934,1,Good range of motion,48.04,0.653
+37,1.235,90.94,Good range of motion,89.06,0.93,1,Good range of motion,52.46,0.643
+38,1.268,93.0,Good range of motion,87.0,0.928,1,Good range of motion,93.82,0.625
+39,1.302,96.48,Good range of motion,83.52,0.929,1,Good range of motion,98.99,0.608
+40,1.335,102.61,Bend your knee further to reach target depth,77.39,0.929,1,Good range of motion,104.77,0.592
+41,1.368,107.09,Bend your knee further to reach target depth,72.91,0.929,1,Good range of motion,109.96,0.583
+42,1.402,112.13,Bend your knee further to reach target depth,67.87,0.932,1,Good range of motion,107.69,0.579
+43,1.435,121.07,Bend your knee further to reach target depth,58.93,0.933,1,Good range of motion,103.01,0.588
+44,1.468,127.5,Bend your knee further to reach target depth,52.5,0.935,1,Good range of motion,99.85,0.602
+45,1.502,132.98,Bend your knee further to reach target depth,47.02,0.937,1,Good range of motion,101.98,0.623
+46,1.535,135.97,Bend your knee further to reach target depth,44.03,0.939,1,Good range of motion,109.92,0.64
+47,1.568,140.86,Bend your knee further to reach target depth,39.14,0.94,1,Good range of motion,113.3,0.66
+48,1.602,145.81,Bend your knee further to reach target depth,34.19,0.938,1,Good range of motion,113.93,0.679
+49,1.635,152.87,Bend your knee further to reach target depth,27.13,0.938,1,Good range of motion,102.12,0.7
+50,1.668,157.09,Bend your knee further to reach target depth,22.91,0.936,1,Good range of motion,98.59,0.722
+51,1.702,162.23,Bend your knee further to reach target depth,17.77,0.935,1,Good range of motion,98.97,0.741
+52,1.735,162.14,Bend your knee further to reach target depth,17.86,0.934,1,Good range of motion,99.57,0.76
+53,1.768,162.94,Bend your knee further to reach target depth,17.06,0.935,1,Good range of motion,96.86,0.776
+54,1.802,164.69,Bend your knee further to reach target depth,15.31,0.935,1,Good range of motion,97.05,0.792
+55,1.835,162.22,Bend your knee further to reach target depth,17.78,0.936,1,Good range of motion,116.91,0.807
+56,1.868,161.86,Bend your knee further to reach target depth,18.14,0.938,1,Good range of motion,130.06,0.823
+57,1.902,163.36,Bend your knee further to reach target depth,16.64,0.939,1,Good range of motion,115.7,0.836
+58,1.935,163.75,Bend your knee further to reach target depth,16.25,0.939,1,Good range of motion,127.52,0.846
+59,1.968,162.84,Bend your knee further to reach target depth,17.16,0.94,1,Good range of motion,130.61,0.856
+60,2.002,162.06,Bend your knee further to reach target depth,17.94,0.94,1,Good range of motion,113.8,0.864
+61,2.035,160.99,Bend your knee further to reach target depth,19.01,0.938,1,Good range of motion,108.97,0.872
+62,2.068,160.73,Bend your knee further to reach target depth,19.27,0.937,1,Good range of motion,108.33,0.88
+63,2.102,159.93,Bend your knee further to reach target depth,20.07,0.937,1,Good range of motion,108.13,0.885
+64,2.135,159.36,Bend your knee further to reach target depth,20.64,0.936,1,Good range of motion,108.33,0.891
+65,2.168,158.91,Bend your knee further to reach target depth,21.09,0.936,1,Good range of motion,106.03,0.896
+66,2.202,158.8,Bend your knee further to reach target depth,21.2,0.936,1,Good range of motion,105.91,0.899
+67,2.235,158.63,Bend your knee further to reach target depth,21.37,0.936,1,Good range of motion,105.67,0.902
+68,2.268,159.78,Bend your knee further to reach target depth,20.22,0.936,1,Good range of motion,105.07,0.904
+69,2.302,160.25,Bend your knee further to reach target depth,19.75,0.934,1,Good range of motion,105.12,0.905
+70,2.335,160.48,Bend your knee further to reach target depth,19.52,0.933,1,Good range of motion,104.92,0.907
+71,2.368,160.85,Bend your knee further to reach target depth,19.15,0.932,1,Good range of motion,104.09,0.908
+72,2.402,161.19,Bend your knee further to reach target depth,18.81,0.93,1,Good range of motion,104.2,0.909
+73,2.435,161.6,Bend your knee further to reach target depth,18.4,0.929,1,Good range of motion,104.42,0.911
+74,2.468,162.1,Bend your knee further to reach target depth,17.9,0.929,1,Good range of motion,104.52,0.913
+75,2.502,162.24,Bend your knee further to reach target depth,17.76,0.929,1,Good range of motion,106.94,0.916
+76,2.535,164.69,Bend your knee further to reach target depth,15.31,0.928,1,Good range of motion,107.1,0.919
+77,2.568,165.59,Bend your knee further to reach target depth,14.41,0.928,1,Good range of motion,107.49,0.92
+78,2.602,167.45,Bend your knee further to reach target depth,12.55,0.927,1,Good range of motion,106.48,0.921
+79,2.635,168.69,Bend your knee further to reach target depth,11.31,0.925,1,Good range of motion,106.85,0.918
+80,2.668,169.15,Bend your knee further to reach target depth,10.85,0.923,1,Good range of motion,106.57,0.918
+81,2.702,169.23,Bend your knee further to reach target depth,10.77,0.925,1,Good range of motion,105.36,0.92
+82,2.735,169.47,Bend your knee further to reach target depth,10.53,0.925,1,Good range of motion,106.77,0.921
+83,2.768,169.66,Bend your knee further to reach target depth,10.34,0.925,1,Good range of motion,105.45,0.921
+84,2.802,169.58,Bend your knee further to reach target depth,10.42,0.926,1,Good range of motion,106.24,0.922
+85,2.835,169.69,Bend your knee further to reach target depth,10.31,0.926,1,Good range of motion,106.68,0.922
+86,2.868,169.5,Bend your knee further to reach target depth,10.5,0.926,1,Good range of motion,106.83,0.922
+87,2.902,168.93,Bend your knee further to reach target depth,11.07,0.925,1,Good range of motion,104.96,0.921
+88,2.935,170.93,Bend your knee further to reach target depth,9.07,0.924,1,Good range of motion,103.52,0.921
+89,2.968,171.76,Bend your knee further to reach target depth,8.24,0.923,1,Good range of motion,103.06,0.922
+90,3.002,171.16,Bend your knee further to reach target depth,8.84,0.922,1,Good range of motion,102.45,0.923
+91,3.035,170.35,Bend your knee further to reach target depth,9.65,0.921,1,Good range of motion,102.22,0.92
+92,3.068,168.31,Bend your knee further to reach target depth,11.69,0.921,1,Good range of motion,105.0,0.92
+93,3.102,164.83,Bend your knee further to reach target depth,15.17,0.923,1,Good range of motion,104.79,0.92
+94,3.135,160.56,Bend your knee further to reach target depth,19.44,0.923,1,Good range of motion,104.1,0.919
+95,3.168,157.34,Bend your knee further to reach target depth,22.66,0.922,1,Good range of motion,101.51,0.913
+96,3.202,154.58,Bend your knee further to reach target depth,25.42,0.921,1,Good range of motion,100.61,0.903
+97,3.235,151.15,Bend your knee further to reach target depth,28.85,0.919,1,Good range of motion,100.59,0.892
+98,3.268,149.78,Bend your knee further to reach target depth,30.22,0.918,1,Good range of motion,100.7,0.879
+99,3.302,148.39,Bend your knee further to reach target depth,31.61,0.917,1,Good range of motion,101.37,0.867
+100,3.335,144.93,Bend your knee further to reach target depth,35.07,0.918,1,Good range of motion,101.74,0.86
+101,3.368,142.85,Bend your knee further to reach target depth,37.15,0.916,1,Good range of motion,103.18,0.846
+102,3.402,139.14,Bend your knee further to reach target depth,40.86,0.917,1,Good range of motion,103.7,0.838
+103,3.435,135.73,Bend your knee further to reach target depth,44.27,0.918,1,Good range of motion,103.81,0.83
+104,3.468,129.26,Bend your knee further to reach target depth,50.74,0.917,1,Good range of motion,102.91,0.819
+105,3.503,121.2,Bend your knee further to reach target depth,58.8,0.917,1,Good range of motion,105.31,0.8
+106,3.537,111.12,Bend your knee further to reach target depth,68.88,0.919,1,Good range of motion,112.26,0.774
+107,3.57,109.59,Bend your knee further to reach target depth,70.41,0.917,1,Good range of motion,112.57,0.73
+108,3.603,106.6,Bend your knee further to reach target depth,73.4,0.915,1,Good range of motion,110.08,0.686
+109,3.637,102.92,Bend your knee further to reach target depth,77.08,0.91,1,Good range of motion,106.91,0.65
+110,3.67,99.83,Good range of motion,80.17,0.903,1,Good range of motion,96.54,0.618
+111,3.703,97.42,Good range of motion,82.58,0.905,1,Good range of motion,94.38,0.595
+112,3.737,94.89,Good range of motion,85.11,0.908,1,Good range of motion,96.53,0.572
+113,3.77,93.85,Good range of motion,86.15,0.905,1,Good range of motion,96.25,0.546
+114,3.803,92.68,Good range of motion,87.32,0.906,2,Good range of motion,96.2,0.524
+115,3.837,92.96,Good range of motion,87.04,0.909,2,Good range of motion,96.73,0.506
+116,3.87,93.8,Good range of motion,86.2,0.91,2,Good range of motion,97.83,0.494
+117,3.903,94.61,Good range of motion,85.39,0.914,2,Good range of motion,98.15,0.49
+118,3.937,95.33,Good range of motion,84.67,0.919,2,Good range of motion,98.71,0.492
+119,3.97,94.9,Good range of motion,85.1,0.924,2,Good range of motion,98.83,0.491
+120,4.003,94.47,Good range of motion,85.53,0.928,2,Good range of motion,99.37,0.488
+121,4.037,94.82,Good range of motion,85.18,0.932,2,Good range of motion,100.07,0.487
+122,4.07,94.83,Good range of motion,85.17,0.935,2,Good range of motion,100.68,0.486
+123,4.103,94.71,Good range of motion,85.29,0.938,2,Good range of motion,100.61,0.486
+124,4.137,94.74,Good range of motion,85.26,0.941,2,Good range of motion,100.57,0.487
+125,4.17,94.63,Good range of motion,85.37,0.944,2,Good range of motion,100.3,0.488
+126,4.203,94.75,Good range of motion,85.25,0.946,2,Good range of motion,100.22,0.488
+127,4.237,94.9,Good range of motion,85.1,0.948,2,Good range of motion,100.15,0.489
+128,4.27,95.04,Good range of motion,84.96,0.951,2,Good range of motion,100.49,0.5
+129,4.303,95.18,Good range of motion,84.82,0.953,2,Good range of motion,100.81,0.501
+130,4.337,95.25,Good range of motion,84.75,0.956,2,Good range of motion,100.81,0.499
+131,4.37,95.31,Good range of motion,84.69,0.958,2,Good range of motion,100.71,0.5
+132,4.403,95.4,Good range of motion,84.6,0.96,2,Good range of motion,100.61,0.501
+133,4.437,95.56,Good range of motion,84.44,0.962,2,Good range of motion,100.57,0.501
+134,4.47,95.35,Good range of motion,84.65,0.963,2,Good range of motion,99.66,0.495
+135,4.503,94.99,Good range of motion,85.01,0.963,2,Good range of motion,99.09,0.489
+136,4.537,94.75,Good range of motion,85.25,0.962,2,Good range of motion,98.44,0.481
+137,4.57,94.75,Good range of motion,85.25,0.96,2,Good range of motion,97.23,0.471
+138,4.603,96.03,Good range of motion,83.97,0.961,2,Good range of motion,97.38,0.464
+139,4.637,98.8,Good range of motion,81.2,0.956,2,Good range of motion,98.94,0.454
+140,4.67,101.38,Bend your knee further to reach target depth,78.62,0.95,2,Good range of motion,100.85,0.445
+141,4.703,106.17,Bend your knee further to reach target depth,73.83,0.948,2,Good range of motion,104.16,0.441
+142,4.737,110.05,Bend your knee further to reach target depth,69.95,0.948,2,Good range of motion,112.22,0.441
+143,4.77,111.37,Bend your knee further to reach target depth,68.63,0.95,2,Good range of motion,117.36,0.457
+144,4.803,125.66,Bend your knee further to reach target depth,54.34,0.949,2,Good range of motion,119.35,0.481
+145,4.837,132.4,Bend your knee further to reach target depth,47.6,0.949,2,Good range of motion,113.69,0.514
+146,4.87,138.11,Bend your knee further to reach target depth,41.89,0.948,2,Good range of motion,111.36,0.538
+147,4.903,142.72,Bend your knee further to reach target depth,37.28,0.949,2,Good range of motion,109.4,0.567
+148,4.937,146.05,Bend your knee further to reach target depth,33.95,0.95,2,Good range of motion,106.77,0.6
+149,4.97,149.29,Bend your knee further to reach target depth,30.71,0.95,2,Good range of motion,104.3,0.629
+150,5.003,152.38,Bend your knee further to reach target depth,27.62,0.947,2,Good range of motion,102.24,0.642
+151,5.037,155.93,Bend your knee further to reach target depth,24.07,0.946,2,Good range of motion,101.8,0.663
+152,5.07,160.53,Bend your knee further to reach target depth,19.47,0.945,2,Good range of motion,100.92,0.682
+153,5.103,162.2,Bend your knee further to reach target depth,17.8,0.944,2,Good range of motion,99.42,0.705
+154,5.137,164.2,Bend your knee further to reach target depth,15.8,0.944,2,Good range of motion,99.87,0.727
+155,5.17,161.9,Bend your knee further to reach target depth,18.1,0.943,2,Good range of motion,103.43,0.748
+156,5.203,162.59,Bend your knee further to reach target depth,17.41,0.941,2,Good range of motion,104.9,0.766
+157,5.237,162.94,Bend your knee further to reach target depth,17.06,0.939,2,Good range of motion,104.04,0.782
+158,5.27,164.54,Bend your knee further to reach target depth,15.46,0.936,2,Good range of motion,103.63,0.794
+159,5.303,165.25,Bend your knee further to reach target depth,14.75,0.935,2,Good range of motion,102.34,0.809
+160,5.337,165.63,Bend your knee further to reach target depth,14.37,0.933,2,Good range of motion,101.54,0.822
+161,5.37,164.01,Bend your knee further to reach target depth,15.99,0.932,2,Good range of motion,100.86,0.832
+162,5.403,142.99,Bend your knee further to reach target depth,37.01,0.931,2,Good range of motion,100.73,0.841
+163,5.437,141.53,Bend your knee further to reach target depth,38.47,0.93,2,Good range of motion,100.76,0.85
+164,5.47,141.62,Bend your knee further to reach target depth,38.38,0.929,2,Good range of motion,100.54,0.857
+165,5.503,159.54,Bend your knee further to reach target depth,20.46,0.929,2,Good range of motion,100.49,0.863
+166,5.537,148.52,Bend your knee further to reach target depth,31.48,0.929,2,Good range of motion,100.13,0.87
+167,5.57,162.21,Bend your knee further to reach target depth,17.79,0.929,2,Good range of motion,99.95,0.876
+168,5.603,148.09,Bend your knee further to reach target depth,31.91,0.929,2,Good range of motion,100.04,0.882
+169,5.637,162.25,Bend your knee further to reach target depth,17.75,0.926,2,Good range of motion,100.17,0.885
+170,5.67,148.77,Bend your knee further to reach target depth,31.23,0.926,2,Good range of motion,99.91,0.89
+171,5.703,162.45,Bend your knee further to reach target depth,17.55,0.926,2,Good range of motion,99.75,0.894
+172,5.737,148.67,Bend your knee further to reach target depth,31.33,0.925,2,Good range of motion,99.31,0.896
+173,5.77,162.17,Bend your knee further to reach target depth,17.83,0.926,2,Good range of motion,99.36,0.898
+174,5.803,165.57,Bend your knee further to reach target depth,14.43,0.924,2,Good range of motion,99.11,0.897
+175,5.837,166.75,Bend your knee further to reach target depth,13.25,0.923,2,Good range of motion,98.27,0.898
+176,5.87,147.06,Bend your knee further to reach target depth,32.94,0.923,2,Good range of motion,98.4,0.901
+177,5.903,161.01,Bend your knee further to reach target depth,18.99,0.923,2,Good range of motion,98.61,0.904
+178,5.937,165.23,Bend your knee further to reach target depth,14.77,0.923,2,Good range of motion,98.93,0.906
+179,5.97,165.89,Bend your knee further to reach target depth,14.11,0.922,2,Good range of motion,99.52,0.905
+180,6.003,165.48,Bend your knee further to reach target depth,14.52,0.921,2,Good range of motion,99.81,0.904
+181,6.037,164.47,Bend your knee further to reach target depth,15.53,0.921,2,Good range of motion,99.95,0.904
+182,6.07,162.97,Bend your knee further to reach target depth,17.03,0.921,2,Good range of motion,100.17,0.903
+183,6.103,163.51,Bend your knee further to reach target depth,16.49,0.92,2,Good range of motion,100.22,0.901
+184,6.137,162.54,Bend your knee further to reach target depth,17.46,0.92,2,Good range of motion,100.63,0.899
+185,6.17,160.68,Bend your knee further to reach target depth,19.32,0.921,2,Good range of motion,100.35,0.899
+186,6.203,158.45,Bend your knee further to reach target depth,21.55,0.919,2,Good range of motion,100.31,0.895
+187,6.237,157.81,Bend your knee further to reach target depth,22.19,0.915,2,Good range of motion,100.43,0.882
+188,6.27,154.39,Bend your knee further to reach target depth,25.61,0.914,2,Good range of motion,101.41,0.869
+189,6.303,149.31,Bend your knee further to reach target depth,30.69,0.914,2,Good range of motion,101.72,0.858
+190,6.337,144.61,Bend your knee further to reach target depth,35.39,0.916,2,Good range of motion,102.25,0.852
+191,6.37,140.0,Bend your knee further to reach target depth,40.0,0.918,2,Good range of motion,102.61,0.848
+192,6.403,135.93,Bend your knee further to reach target depth,44.07,0.917,2,Good range of motion,104.37,0.836
+193,6.437,131.61,Bend your knee further to reach target depth,48.39,0.919,2,Good range of motion,106.05,0.833
+194,6.47,126.31,Bend your knee further to reach target depth,53.69,0.921,2,Good range of motion,117.75,0.818
+195,6.503,115.72,Bend your knee further to reach target depth,64.28,0.925,2,Good range of motion,122.26,0.798
+196,6.537,115.95,Bend your knee further to reach target depth,64.05,0.925,2,Good range of motion,118.27,0.754
+197,6.57,110.85,Bend your knee further to reach target depth,69.15,0.924,2,Good range of motion,116.46,0.713
+198,6.603,106.25,Bend your knee further to reach target depth,73.75,0.921,2,Good range of motion,113.48,0.673
+199,6.637,103.11,Bend your knee further to reach target depth,76.89,0.922,2,Good range of motion,110.29,0.638
+200,6.67,100.88,Bend your knee further to reach target depth,79.12,0.921,2,Good range of motion,107.4,0.608
+201,6.703,98.17,Good range of motion,81.83,0.921,2,Good range of motion,102.5,0.58
+202,6.737,95.85,Good range of motion,84.15,0.921,2,Good range of motion,94.34,0.556
+203,6.77,94.93,Good range of motion,85.07,0.925,2,Good range of motion,95.18,0.538
+204,6.803,95.1,Good range of motion,84.9,0.928,2,Good range of motion,97.76,0.519
+205,6.837,94.93,Good range of motion,85.07,0.929,2,Good range of motion,98.77,0.51
+206,6.87,95.84,Good range of motion,84.16,0.931,2,Good range of motion,98.91,0.503
+207,6.903,96.47,Good range of motion,83.53,0.934,2,Good range of motion,99.3,0.498
+208,6.937,96.17,Good range of motion,83.83,0.936,2,Good range of motion,99.59,0.492
+209,6.97,96.07,Good range of motion,83.93,0.932,2,Good range of motion,99.74,0.476
+210,7.003,95.69,Good range of motion,84.31,0.932,2,Good range of motion,99.59,0.463
+211,7.037,95.11,Good range of motion,84.89,0.934,2,Good range of motion,99.02,0.455
+212,7.07,94.72,Good range of motion,85.28,0.934,2,Good range of motion,98.43,0.446
+213,7.103,93.71,Good range of motion,86.29,0.936,2,Good range of motion,97.66,0.441
+214,7.137,93.1,Good range of motion,86.9,0.936,2,Good range of motion,97.35,0.435
+215,7.17,92.83,Good range of motion,87.17,0.938,3,Good range of motion,97.2,0.438
+216,7.203,92.81,Good range of motion,87.19,0.942,3,Good range of motion,98.08,0.454
+217,7.237,92.81,Good range of motion,87.19,0.945,3,Good range of motion,100.16,0.47
+218,7.27,93.08,Good range of motion,86.92,0.949,3,Good range of motion,102.18,0.486
+219,7.303,93.1,Good range of motion,86.9,0.952,3,Good range of motion,102.8,0.502
+220,7.337,93.45,Good range of motion,86.55,0.954,3,Good range of motion,102.79,0.518
+221,7.37,93.61,Good range of motion,86.39,0.957,3,Good range of motion,102.91,0.532
+222,7.403,93.9,Good range of motion,86.1,0.959,3,Good range of motion,103.36,0.545
+223,7.437,94.01,Good range of motion,85.99,0.961,3,Good range of motion,103.83,0.555
+224,7.47,94.12,Good range of motion,85.88,0.963,3,Good range of motion,103.73,0.564
+225,7.503,93.64,Good range of motion,86.36,0.965,3,Good range of motion,103.71,0.574
+226,7.537,93.33,Good range of motion,86.67,0.967,3,Good range of motion,102.93,0.586
+227,7.57,93.41,Good range of motion,86.59,0.969,3,Good range of motion,102.73,0.594
+228,7.603,93.63,Good range of motion,86.37,0.97,3,Good range of motion,102.34,0.591
+229,7.637,94.18,Good range of motion,85.82,0.97,3,Good range of motion,103.46,0.591
+230,7.67,94.72,Good range of motion,85.28,0.97,3,Good range of motion,100.86,0.581
+231,7.703,96.09,Good range of motion,83.91,0.97,3,Good range of motion,96.72,0.573
+232,7.737,99.06,Good range of motion,80.94,0.969,3,Good range of motion,86.11,0.563
+233,7.77,102.74,Bend your knee further to reach target depth,77.26,0.965,3,Good range of motion,99.25,0.549
+234,7.803,107.26,Bend your knee further to reach target depth,72.74,0.962,3,Good range of motion,106.33,0.528
+235,7.837,111.28,Bend your knee further to reach target depth,68.72,0.959,3,Good range of motion,114.49,0.517
+236,7.87,117.05,Bend your knee further to reach target depth,62.95,0.958,3,Good range of motion,116.53,0.518
+237,7.903,126.47,Bend your knee further to reach target depth,53.53,0.958,3,Good range of motion,114.39,0.539
+238,7.937,131.75,Bend your knee further to reach target depth,48.25,0.957,3,Good range of motion,112.73,0.56
+239,7.97,136.06,Bend your knee further to reach target depth,43.94,0.955,3,Good range of motion,110.28,0.582
+240,8.003,140.82,Bend your knee further to reach target depth,39.18,0.953,3,Good range of motion,109.38,0.605
+241,8.037,143.01,Bend your knee further to reach target depth,36.99,0.952,3,Good range of motion,107.07,0.628
+242,8.07,144.93,Bend your knee further to reach target depth,35.07,0.952,3,Good range of motion,106.29,0.652
+243,8.103,147.96,Bend your knee further to reach target depth,32.04,0.952,3,Good range of motion,103.89,0.674
+244,8.137,151.22,Bend your knee further to reach target depth,28.78,0.95,3,Good range of motion,102.65,0.694
+245,8.17,153.34,Bend your knee further to reach target depth,26.66,0.949,3,Good range of motion,100.64,0.712
+246,8.203,153.68,Bend your knee further to reach target depth,26.32,0.946,3,Good range of motion,99.17,0.731
+247,8.237,156.51,Bend your knee further to reach target depth,23.49,0.946,3,Good range of motion,99.53,0.752
+248,8.27,158.25,Bend your knee further to reach target depth,21.75,0.946,3,Good range of motion,101.52,0.771
+249,8.303,155.28,Bend your knee further to reach target depth,24.72,0.945,3,Good range of motion,102.77,0.788
+250,8.337,156.26,Bend your knee further to reach target depth,23.74,0.944,3,Good range of motion,103.54,0.804
+251,8.37,156.34,Bend your knee further to reach target depth,23.66,0.944,3,Good range of motion,104.01,0.819
+252,8.403,157.97,Bend your knee further to reach target depth,22.03,0.943,3,Good range of motion,103.65,0.831
+253,8.437,157.26,Bend your knee further to reach target depth,22.74,0.943,3,Good range of motion,103.56,0.842
+254,8.47,156.84,Bend your knee further to reach target depth,23.16,0.942,3,Good range of motion,103.57,0.852
+255,8.503,156.88,Bend your knee further to reach target depth,23.12,0.942,3,Good range of motion,103.43,0.86
+256,8.537,156.26,Bend your knee further to reach target depth,23.74,0.941,3,Good range of motion,103.82,0.869
+257,8.57,157.08,Bend your knee further to reach target depth,22.92,0.94,3,Good range of motion,104.0,0.876
+258,8.603,157.43,Bend your knee further to reach target depth,22.57,0.939,3,Good range of motion,104.09,0.884
+259,8.637,138.86,Bend your knee further to reach target depth,41.14,0.938,3,Good range of motion,103.18,0.891
+260,8.67,138.93,Bend your knee further to reach target depth,41.07,0.937,3,Good range of motion,103.25,0.896
+261,8.703,149.5,Bend your knee further to reach target depth,30.5,0.935,3,Good range of motion,103.26,0.901
+262,8.737,154.41,Bend your knee further to reach target depth,25.59,0.934,3,Good range of motion,102.97,0.906
+263,8.77,141.29,Bend your knee further to reach target depth,38.71,0.932,3,Good range of motion,102.96,0.908
+264,8.803,138.43,Bend your knee further to reach target depth,41.57,0.93,3,Good range of motion,102.9,0.911
+265,8.837,139.68,Bend your knee further to reach target depth,40.32,0.927,3,Good range of motion,102.9,0.914
+266,8.87,159.28,Bend your knee further to reach target depth,20.72,0.926,3,Good range of motion,102.91,0.916
+267,8.903,164.18,Bend your knee further to reach target depth,15.82,0.925,3,Good range of motion,102.58,0.918
+268,8.937,165.41,Bend your knee further to reach target depth,14.59,0.925,3,Good range of motion,102.57,0.92
+269,8.97,164.77,Bend your knee further to reach target depth,15.23,0.923,3,Good range of motion,102.23,0.917
+270,9.003,166.65,Bend your knee further to reach target depth,13.35,0.923,3,Good range of motion,102.71,0.915
+271,9.037,165.4,Bend your knee further to reach target depth,14.6,0.922,3,Good range of motion,102.48,0.912
+272,9.07,167.66,Bend your knee further to reach target depth,12.34,0.92,3,Good range of motion,99.99,0.906
+273,9.103,165.74,Bend your knee further to reach target depth,14.26,0.919,3,Good range of motion,99.59,0.9
+274,9.137,161.25,Bend your knee further to reach target depth,18.75,0.917,3,Good range of motion,99.2,0.898
+275,9.17,160.36,Bend your knee further to reach target depth,19.64,0.917,3,Good range of motion,99.35,0.892
+276,9.203,156.75,Bend your knee further to reach target depth,23.25,0.916,3,Good range of motion,99.35,0.884
+277,9.237,152.93,Bend your knee further to reach target depth,27.07,0.919,3,Good range of motion,99.6,0.883
+278,9.27,148.57,Bend your knee further to reach target depth,31.43,0.921,3,Good range of motion,100.15,0.881
+279,9.303,141.84,Bend your knee further to reach target depth,38.16,0.923,3,Good range of motion,99.99,0.878
+280,9.337,136.78,Bend your knee further to reach target depth,43.22,0.925,3,Good range of motion,100.15,0.873
+281,9.37,131.78,Bend your knee further to reach target depth,48.22,0.926,3,Good range of motion,101.88,0.864
+282,9.403,127.52,Bend your knee further to reach target depth,52.48,0.927,3,Good range of motion,110.98,0.849
+283,9.437,122.01,Bend your knee further to reach target depth,57.99,0.928,3,Good range of motion,120.18,0.815
+284,9.47,113.47,Bend your knee further to reach target depth,66.53,0.93,3,Good range of motion,117.76,0.776
+285,9.503,109.43,Bend your knee further to reach target depth,70.57,0.929,3,Good range of motion,115.97,0.727
+286,9.537,105.36,Bend your knee further to reach target depth,74.64,0.926,3,Good range of motion,112.1,0.683
+287,9.57,100.84,Bend your knee further to reach target depth,79.16,0.922,3,Good range of motion,106.52,0.641
+288,9.603,98.0,Good range of motion,82.0,0.92,3,Good range of motion,100.05,0.605
+289,9.637,94.83,Good range of motion,85.17,0.923,3,Good range of motion,99.81,0.579
+290,9.67,92.14,Good range of motion,87.86,0.923,4,Good range of motion,94.82,0.552
+291,9.703,91.7,Good range of motion,88.3,0.923,4,Good range of motion,95.61,0.535
+292,9.737,92.32,Good range of motion,87.68,0.924,4,Good range of motion,96.92,0.523
+293,9.77,92.8,Good range of motion,87.2,0.927,4,Good range of motion,98.69,0.515
+294,9.803,94.05,Good range of motion,85.95,0.928,4,Good range of motion,100.64,0.51
+295,9.837,94.41,Good range of motion,85.59,0.931,4,Good range of motion,100.57,0.507
+296,9.87,95.79,Good range of motion,84.21,0.93,4,Good range of motion,100.36,0.49
+297,9.903,95.52,Good range of motion,84.48,0.932,4,Good range of motion,100.45,0.483
+298,9.937,95.37,Good range of motion,84.63,0.932,4,Good range of motion,100.63,0.477
+299,9.97,95.22,Good range of motion,84.78,0.935,4,Good range of motion,101.09,0.48
+300,10.003,95.8,Good range of motion,84.2,0.937,4,Good range of motion,100.5,0.481
+301,10.037,95.52,Good range of motion,84.48,0.939,4,Good range of motion,100.38,0.483
+302,10.07,95.67,Good range of motion,84.33,0.941,4,Good range of motion,101.98,0.487
+303,10.103,95.56,Good range of motion,84.44,0.944,4,Good range of motion,102.22,0.491
+304,10.137,95.48,Good range of motion,84.52,0.945,4,Good range of motion,102.38,0.495
+305,10.17,95.38,Good range of motion,84.62,0.948,4,Good range of motion,102.73,0.5
+306,10.203,95.37,Good range of motion,84.63,0.95,4,Good range of motion,103.86,0.505
+307,10.237,95.37,Good range of motion,84.63,0.953,4,Good range of motion,104.25,0.509
+308,10.27,95.53,Good range of motion,84.47,0.955,4,Good range of motion,104.55,0.513
+309,10.303,95.68,Good range of motion,84.32,0.957,4,Good range of motion,104.87,0.515
+310,10.337,95.77,Good range of motion,84.23,0.959,4,Good range of motion,104.86,0.514
+311,10.37,96.84,Good range of motion,83.16,0.96,4,Good range of motion,104.27,0.51
+312,10.403,97.2,Good range of motion,82.8,0.961,4,Good range of motion,104.06,0.506
+313,10.438,97.22,Good range of motion,82.78,0.962,4,Good range of motion,103.57,0.504
+314,10.472,97.2,Good range of motion,82.8,0.963,4,Good range of motion,103.15,0.505
+315,10.505,97.06,Good range of motion,82.94,0.964,4,Good range of motion,102.71,0.508
+316,10.538,96.83,Good range of motion,83.17,0.965,4,Good range of motion,102.64,0.513
+317,10.572,96.51,Good range of motion,83.49,0.965,4,Good range of motion,101.85,0.521
+318,10.605,96.16,Good range of motion,83.84,0.965,4,Good range of motion,101.11,0.524
+319,10.638,95.82,Good range of motion,84.18,0.965,4,Good range of motion,101.06,0.523
+320,10.672,96.11,Good range of motion,83.89,0.965,4,Good range of motion,100.81,0.514
+321,10.705,96.75,Good range of motion,83.25,0.964,4,Good range of motion,99.39,0.506
+322,10.738,99.86,Good range of motion,80.14,0.959,4,Good range of motion,99.92,0.49
+323,10.772,102.87,Bend your knee further to reach target depth,77.13,0.953,4,Good range of motion,102.04,0.475
+324,10.805,106.82,Bend your knee further to reach target depth,73.18,0.948,4,Good range of motion,107.49,0.463
+325,10.838,111.51,Bend your knee further to reach target depth,68.49,0.945,4,Good range of motion,112.1,0.457
+326,10.872,112.92,Bend your knee further to reach target depth,67.08,0.947,4,Good range of motion,114.92,0.473
+327,10.905,123.86,Bend your knee further to reach target depth,56.14,0.947,4,Good range of motion,116.22,0.497
+328,10.938,127.68,Bend your knee further to reach target depth,52.32,0.948,4,Good range of motion,113.6,0.526
+329,10.972,131.56,Bend your knee further to reach target depth,48.44,0.949,4,Good range of motion,110.83,0.558
+330,11.005,133.32,Bend your knee further to reach target depth,46.68,0.951,4,Good range of motion,108.86,0.593
+331,11.038,137.83,Bend your knee further to reach target depth,42.17,0.952,4,Good range of motion,106.84,0.625
+332,11.072,143.31,Bend your knee further to reach target depth,36.69,0.952,4,Good range of motion,105.67,0.652
+333,11.105,146.78,Bend your knee further to reach target depth,33.22,0.951,4,Good range of motion,103.64,0.672
+334,11.138,150.76,Bend your knee further to reach target depth,29.24,0.95,4,Good range of motion,104.06,0.691
+335,11.172,153.31,Bend your knee further to reach target depth,26.69,0.95,4,Good range of motion,104.19,0.713
+336,11.205,153.66,Bend your knee further to reach target depth,26.34,0.949,4,Good range of motion,103.41,0.734
+337,11.238,155.45,Bend your knee further to reach target depth,24.55,0.95,4,Good range of motion,102.89,0.755
+338,11.272,155.73,Bend your knee further to reach target depth,24.27,0.95,4,Good range of motion,104.3,0.775
+339,11.305,157.58,Bend your knee further to reach target depth,22.42,0.948,4,Good range of motion,105.2,0.792
+340,11.338,158.5,Bend your knee further to reach target depth,21.5,0.948,4,Good range of motion,105.3,0.807
+341,11.372,160.05,Bend your knee further to reach target depth,19.95,0.947,4,Good range of motion,104.64,0.82
+342,11.405,160.37,Bend your knee further to reach target depth,19.63,0.945,4,Good range of motion,103.74,0.831
+343,11.438,160.5,Bend your knee further to reach target depth,19.5,0.943,4,Good range of motion,102.51,0.84
+344,11.472,160.68,Bend your knee further to reach target depth,19.32,0.941,4,Good range of motion,100.52,0.849
+345,11.505,160.94,Bend your knee further to reach target depth,19.06,0.941,4,Good range of motion,99.58,0.856
+346,11.538,161.57,Bend your knee further to reach target depth,18.43,0.94,4,Good range of motion,99.31,0.863
+347,11.572,162.2,Bend your knee further to reach target depth,17.8,0.938,4,Good range of motion,99.13,0.87
+348,11.605,162.41,Bend your knee further to reach target depth,17.59,0.935,4,Good range of motion,99.15,0.875
+349,11.638,164.74,Bend your knee further to reach target depth,15.26,0.931,4,Good range of motion,99.18,0.876
+350,11.672,164.14,Bend your knee further to reach target depth,15.86,0.929,4,Good range of motion,102.19,0.88
+351,11.705,165.55,Bend your knee further to reach target depth,14.45,0.928,4,Good range of motion,103.7,0.883
+352,11.738,166.13,Bend your knee further to reach target depth,13.87,0.927,4,Good range of motion,103.75,0.887
+353,11.772,166.49,Bend your knee further to reach target depth,13.51,0.926,4,Good range of motion,104.26,0.89
+354,11.805,166.42,Bend your knee further to reach target depth,13.58,0.926,4,Good range of motion,104.06,0.893
+355,11.838,166.28,Bend your knee further to reach target depth,13.72,0.925,4,Good range of motion,103.89,0.896
+356,11.872,166.31,Bend your knee further to reach target depth,13.69,0.924,4,Good range of motion,103.75,0.898
+357,11.905,166.32,Bend your knee further to reach target depth,13.68,0.923,4,Good range of motion,121.73,0.899
+358,11.938,168.7,Bend your knee further to reach target depth,11.3,0.923,4,Good range of motion,117.44,0.9
+359,11.972,168.42,Bend your knee further to reach target depth,11.58,0.922,4,Good range of motion,113.51,0.902
+360,12.005,168.0,Bend your knee further to reach target depth,12.0,0.921,4,Good range of motion,124.66,0.902
+361,12.038,167.24,Bend your knee further to reach target depth,12.76,0.92,4,Good range of motion,126.04,0.9
+362,12.072,166.75,Bend your knee further to reach target depth,13.25,0.919,4,Good range of motion,128.71,0.898
+363,12.105,166.29,Bend your knee further to reach target depth,13.71,0.92,4,Good range of motion,114.36,0.899
+364,12.138,165.39,Bend your knee further to reach target depth,14.61,0.918,4,Good range of motion,121.36,0.898
+365,12.172,164.14,Bend your knee further to reach target depth,15.86,0.917,4,Good range of motion,109.98,0.898
+366,12.205,164.43,Bend your knee further to reach target depth,15.57,0.912,4,Good range of motion,104.56,0.892
+367,12.238,163.52,Bend your knee further to reach target depth,16.48,0.911,4,Good range of motion,101.98,0.889
+368,12.272,162.33,Bend your knee further to reach target depth,17.67,0.907,4,Good range of motion,100.23,0.878
+369,12.305,163.23,Bend your knee further to reach target depth,16.77,0.904,4,Good range of motion,100.11,0.865
+370,12.338,162.24,Bend your knee further to reach target depth,17.76,0.904,4,Good range of motion,100.1,0.861
+371,12.372,160.86,Bend your knee further to reach target depth,19.14,0.902,4,Good range of motion,100.52,0.851
+372,12.405,159.6,Bend your knee further to reach target depth,20.4,0.903,4,Good range of motion,100.65,0.848
+373,12.438,157.6,Bend your knee further to reach target depth,22.4,0.905,4,Good range of motion,100.82,0.847
+374,12.472,156.36,Bend your knee further to reach target depth,23.64,0.906,4,Good range of motion,100.95,0.845
+375,12.505,153.6,Bend your knee further to reach target depth,26.4,0.908,4,Good range of motion,102.81,0.842
+376,12.538,151.86,Bend your knee further to reach target depth,28.14,0.91,4,Good range of motion,102.71,0.836
+377,12.572,148.75,Bend your knee further to reach target depth,31.25,0.915,4,Good range of motion,103.19,0.842
+378,12.605,145.24,Bend your knee further to reach target depth,34.76,0.918,4,Good range of motion,104.02,0.841
+379,12.638,141.05,Bend your knee further to reach target depth,38.95,0.921,4,Good range of motion,104.58,0.84
+380,12.672,136.26,Bend your knee further to reach target depth,43.74,0.924,4,Good range of motion,107.01,0.833
+381,12.705,132.48,Bend your knee further to reach target depth,47.52,0.926,4,Good range of motion,109.37,0.823
+382,12.738,128.21,Bend your knee further to reach target depth,51.79,0.924,4,Good range of motion,111.84,0.801
+383,12.772,121.99,Bend your knee further to reach target depth,58.01,0.923,4,Good range of motion,120.41,0.766
+384,12.805,113.58,Bend your knee further to reach target depth,66.42,0.924,4,Good range of motion,118.44,0.732
+385,12.838,108.42,Bend your knee further to reach target depth,71.58,0.925,4,Good range of motion,114.69,0.701
+386,12.872,105.66,Bend your knee further to reach target depth,74.34,0.924,4,Good range of motion,113.42,0.666
+387,12.905,102.4,Bend your knee further to reach target depth,77.6,0.924,4,Good range of motion,109.75,0.634
+388,12.938,100.47,Bend your knee further to reach target depth,79.53,0.92,4,Good range of motion,97.55,0.607
+389,12.972,99.14,Good range of motion,80.86,0.922,4,Good range of motion,95.98,0.591
+390,13.005,97.55,Good range of motion,82.45,0.923,4,Good range of motion,85.72,0.575
+391,13.038,96.46,Good range of motion,83.54,0.92,4,Good range of motion,89.94,0.554
+392,13.072,94.03,Good range of motion,85.97,0.92,4,Good range of motion,95.46,0.536
+393,13.105,94.4,Good range of motion,85.6,0.924,4,Good range of motion,100.46,0.526
+394,13.138,94.89,Good range of motion,85.11,0.928,4,Good range of motion,100.51,0.527
+395,13.172,95.38,Good range of motion,84.62,0.931,4,Good range of motion,102.95,0.523
+396,13.205,95.78,Good range of motion,84.22,0.935,4,Good range of motion,105.04,0.52
+397,13.238,95.89,Good range of motion,84.11,0.939,4,Good range of motion,105.25,0.519
+398,13.272,95.84,Good range of motion,84.16,0.942,4,Good range of motion,104.79,0.513
+399,13.305,94.97,Good range of motion,85.03,0.944,4,Good range of motion,104.58,0.508
+400,13.338,95.01,Good range of motion,84.99,0.946,4,Good range of motion,104.24,0.501
+401,13.372,95.19,Good range of motion,84.81,0.948,4,Good range of motion,104.2,0.492
+402,13.405,95.27,Good range of motion,84.73,0.948,4,Good range of motion,104.12,0.487
+403,13.438,95.25,Good range of motion,84.75,0.949,4,Good range of motion,104.47,0.483
+404,13.472,95.24,Good range of motion,84.76,0.951,4,Good range of motion,104.63,0.476
+405,13.505,95.14,Good range of motion,84.86,0.951,4,Good range of motion,104.5,0.47
+406,13.538,94.83,Good range of motion,85.17,0.953,4,Good range of motion,104.46,0.467
+407,13.572,94.74,Good range of motion,85.26,0.954,4,Good range of motion,103.39,0.464
+408,13.605,94.51,Good range of motion,85.49,0.955,4,Good range of motion,103.37,0.464
+409,13.638,94.43,Good range of motion,85.57,0.956,4,Good range of motion,102.79,0.458
+410,13.672,93.83,Good range of motion,86.17,0.957,4,Good range of motion,102.74,0.459
+411,13.705,93.79,Good range of motion,86.21,0.958,5,Straighten your knee further,102.52,0.461
+412,13.738,93.61,Good range of motion,86.39,0.96,5,Straighten your knee further,101.14,0.467
+413,13.772,93.47,Good range of motion,86.53,0.96,5,Straighten your knee further,101.01,0.471
+414,13.805,93.95,Good range of motion,86.05,0.96,5,Straighten your knee further,100.66,0.463
+415,13.838,94.74,Good range of motion,85.26,0.958,5,Straighten your knee further,100.35,0.449
+416,13.872,97.65,Good range of motion,82.35,0.954,5,Straighten your knee further,98.15,0.434
+417,13.905,99.78,Good range of motion,80.22,0.952,5,Straighten your knee further,102.11,0.422
+418,13.938,101.11,Bend your knee further to reach target depth,78.89,0.953,5,Straighten your knee further,106.01,0.418
+419,13.972,104.13,Bend your knee further to reach target depth,75.87,0.953,5,Straighten your knee further,109.15,0.414
+420,14.005,105.15,Bend your knee further to reach target depth,74.85,0.955,5,Straighten your knee further,110.32,0.416
+421,14.038,110.32,Bend your knee further to reach target depth,69.68,0.956,5,Straighten your knee further,120.66,0.438
+422,14.072,122.0,Bend your knee further to reach target depth,58.0,0.958,5,Straighten your knee further,128.68,0.479
+423,14.105,125.11,Bend your knee further to reach target depth,54.89,0.959,5,Straighten your knee further,129.73,0.512
+424,14.138,130.32,Bend your knee further to reach target depth,49.68,0.959,5,Straighten your knee further,121.1,0.54
+425,14.172,134.26,Bend your knee further to reach target depth,45.74,0.96,5,Straighten your knee further,117.11,0.574
+426,14.205,138.03,Bend your knee further to reach target depth,41.97,0.961,5,Straighten your knee further,109.42,0.605
+427,14.238,143.45,Bend your knee further to reach target depth,36.55,0.961,5,Straighten your knee further,108.0,0.638
+428,14.272,147.16,Bend your knee further to reach target depth,32.84,0.96,5,Straighten your knee further,105.75,0.669
+429,14.305,148.48,Bend your knee further to reach target depth,31.52,0.96,5,Straighten your knee further,105.16,0.697
+430,14.338,151.35,Bend your knee further to reach target depth,28.65,0.958,5,Straighten your knee further,104.83,0.721
+431,14.372,152.68,Bend your knee further to reach target depth,27.32,0.956,5,Straighten your knee further,104.11,0.744
+432,14.405,152.12,Bend your knee further to reach target depth,27.88,0.955,5,Straighten your knee further,103.98,0.764
+433,14.438,152.24,Bend your knee further to reach target depth,27.76,0.954,5,Straighten your knee further,103.57,0.784
+434,14.472,152.37,Bend your knee further to reach target depth,27.63,0.954,5,Straighten your knee further,102.34,0.8
+435,14.505,154.35,Bend your knee further to reach target depth,25.65,0.953,5,Straighten your knee further,101.98,0.815
+436,14.538,154.54,Bend your knee further to reach target depth,25.46,0.951,5,Straighten your knee further,102.04,0.827
+437,14.572,141.13,Bend your knee further to reach target depth,38.87,0.951,5,Straighten your knee further,101.42,0.839
+438,14.605,144.96,Bend your knee further to reach target depth,35.04,0.951,5,Straighten your knee further,101.83,0.85
+439,14.638,146.21,Bend your knee further to reach target depth,33.79,0.95,5,Straighten your knee further,102.39,0.859
+440,14.672,152.22,Bend your knee further to reach target depth,27.78,0.948,5,Straighten your knee further,103.03,0.867
+441,14.705,155.33,Bend your knee further to reach target depth,24.67,0.947,5,Straighten your knee further,103.24,0.873
+442,14.738,154.95,Bend your knee further to reach target depth,25.05,0.946,5,Straighten your knee further,102.73,0.879
+443,14.772,154.94,Bend your knee further to reach target depth,25.06,0.945,5,Straighten your knee further,102.38,0.884
+444,14.805,154.83,Bend your knee further to reach target depth,25.17,0.944,5,Straighten your knee further,102.11,0.889
+445,14.838,154.43,Bend your knee further to reach target depth,25.57,0.944,5,Straighten your knee further,101.88,0.892
+446,14.872,154.33,Bend your knee further to reach target depth,25.67,0.942,5,Straighten your knee further,101.78,0.894
+447,14.905,156.35,Bend your knee further to reach target depth,23.65,0.942,5,Straighten your knee further,101.39,0.898
+448,14.938,158.12,Bend your knee further to reach target depth,21.88,0.942,5,Straighten your knee further,101.45,0.901
+449,14.972,158.69,Bend your knee further to reach target depth,21.31,0.942,5,Straighten your knee further,101.42,0.905
+450,15.005,158.98,Bend your knee further to reach target depth,21.02,0.941,5,Straighten your knee further,101.35,0.908
+451,15.038,159.15,Bend your knee further to reach target depth,20.85,0.94,5,Straighten your knee further,101.34,0.911
+452,15.072,159.29,Bend your knee further to reach target depth,20.71,0.939,5,Straighten your knee further,101.29,0.914
+453,15.105,158.35,Bend your knee further to reach target depth,21.65,0.938,5,Straighten your knee further,101.15,0.915
+454,15.138,157.42,Bend your knee further to reach target depth,22.58,0.937,5,Straighten your knee further,100.82,0.916
+455,15.172,156.73,Bend your knee further to reach target depth,23.27,0.936,5,Straighten your knee further,100.76,0.916
+456,15.205,154.6,Bend your knee further to reach target depth,25.4,0.934,5,Straighten your knee further,99.74,0.915
+457,15.238,155.95,Bend your knee further to reach target depth,24.05,0.932,5,Straighten your knee further,99.61,0.912
+458,15.272,155.46,Bend your knee further to reach target depth,24.54,0.93,5,Straighten your knee further,99.44,0.909
+459,15.305,153.12,Bend your knee further to reach target depth,26.88,0.929,5,Straighten your knee further,99.5,0.901
+460,15.338,149.31,Bend your knee further to reach target depth,30.69,0.928,5,Straighten your knee further,99.56,0.89
+461,15.372,145.58,Bend your knee further to reach target depth,34.42,0.928,5,Straighten your knee further,100.08,0.883
+462,15.405,141.5,Bend your knee further to reach target depth,38.5,0.929,5,Straighten your knee further,108.94,0.876
+463,15.438,137.23,Bend your knee further to reach target depth,42.77,0.928,5,Straighten your knee further,104.43,0.867
+464,15.472,132.86,Bend your knee further to reach target depth,47.14,0.929,5,Straighten your knee further,102.27,0.859
+465,15.505,127.88,Bend your knee further to reach target depth,52.12,0.929,5,Straighten your knee further,101.56,0.849
+466,15.538,125.48,Bend your knee further to reach target depth,54.52,0.93,5,Straighten your knee further,101.81,0.838
+467,15.572,116.71,Bend your knee further to reach target depth,63.29,0.931,5,Straighten your knee further,120.67,0.808
+468,15.605,109.33,Bend your knee further to reach target depth,70.67,0.934,5,Straighten your knee further,117.98,0.777
+469,15.638,106.33,Bend your knee further to reach target depth,73.67,0.935,5,Straighten your knee further,114.33,0.74
+470,15.672,103.78,Bend your knee further to reach target depth,76.22,0.935,5,Straighten your knee further,110.84,0.702
+471,15.705,101.43,Bend your knee further to reach target depth,78.57,0.936,5,Straighten your knee further,109.21,0.663
+472,15.738,99.36,Good range of motion,80.64,0.936,5,Straighten your knee further,105.25,0.628
+473,15.772,97.75,Good range of motion,82.25,0.935,5,Straighten your knee further,100.83,0.594
+474,15.805,97.4,Good range of motion,82.6,0.935,5,Straighten your knee further,96.99,0.566
+475,15.838,95.72,Good range of motion,84.28,0.937,5,Straighten your knee further,94.11,0.546
+476,15.872,94.32,Good range of motion,85.68,0.939,5,Straighten your knee further,95.16,0.533
+477,15.905,94.33,Good range of motion,85.67,0.941,5,Straighten your knee further,96.61,0.517
+478,15.938,94.88,Good range of motion,85.12,0.943,5,Straighten your knee further,95.48,0.503
+479,15.972,95.45,Good range of motion,84.55,0.944,5,Straighten your knee further,96.98,0.49
+480,16.005,96.12,Good range of motion,83.88,0.944,5,Straighten your knee further,98.42,0.479
+481,16.038,95.99,Good range of motion,84.01,0.945,5,Straighten your knee further,98.75,0.474
+482,16.072,96.09,Good range of motion,83.91,0.945,5,Straighten your knee further,99.1,0.471
+483,16.105,95.84,Good range of motion,84.16,0.947,5,Straighten your knee further,99.63,0.471
+484,16.138,95.75,Good range of motion,84.25,0.948,5,Straighten your knee further,99.21,0.466
+485,16.172,94.68,Good range of motion,85.32,0.95,5,Straighten your knee further,98.46,0.47
+486,16.205,94.23,Good range of motion,85.77,0.952,5,Straighten your knee further,98.16,0.476
+487,16.238,94.01,Good range of motion,85.99,0.949,5,Straighten your knee further,92.54,0.477
+488,16.272,93.55,Good range of motion,86.45,0.95,5,Straighten your knee further,94.3,0.483
+489,16.305,92.47,Good range of motion,87.53,0.951,5,Straighten your knee further,94.7,0.482
+490,16.338,91.75,Good range of motion,88.25,0.952,5,Straighten your knee further,85.1,0.484
+491,16.372,91.31,Good range of motion,88.69,0.952,5,Straighten your knee further,91.06,0.476
+492,16.405,90.17,Good range of motion,89.83,0.948,5,Straighten your knee further,90.34,0.472
+493,16.438,89.37,Good range of motion,90.63,0.948,5,Straighten your knee further,91.02,0.467
+494,16.472,89.54,Good range of motion,90.46,0.948,5,Straighten your knee further,93.39,0.456
+495,16.505,88.07,Good range of motion,91.93,0.95,5,Straighten your knee further,93.77,0.455
+496,16.538,88.03,Good range of motion,91.97,0.951,5,Straighten your knee further,95.43,0.449
+497,16.572,87.2,Good range of motion,92.8,0.95,5,Straighten your knee further,94.01,0.444
+498,16.605,86.67,Good range of motion,93.33,0.949,5,Straighten your knee further,65.25,0.452
+499,16.638,84.85,Good range of motion,95.15,0.949,5,Straighten your knee further,65.53,0.455
+500,16.672,85.11,Good range of motion,94.89,0.948,5,Straighten your knee further,66.6,0.459
+501,16.705,85.23,Good range of motion,94.77,0.947,,,88.7,0.446
+502,16.738,84.76,Good range of motion,95.24,0.948,,,91.98,0.449
+503,16.772,85.59,Good range of motion,94.41,0.949,,,93.84,0.449

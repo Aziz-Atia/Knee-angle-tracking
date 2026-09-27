@@ -1,0 +1,17 @@
+Metric,Sagital_left.mov,Sagital_right.mov
+Measured leg (camera side),left (Sagital_left.mov),right (Sagital_right.mov)
+Frames / duration,504 / 16.80 s,448 / 14.94 s
+Detection rate,100%,100%
+Min / max / mean angle (deg),84.8 / 171.8 / 126.2,88.0 / 177.7 / 133.5
+"Mean landmark visibility, measured leg",0.94,0.98
+"Frames with visibility < 0.5, measured leg",0.0%,0.0%
+Repetitions detected,5,5
+"Peak extension per rep (deg), mean ± SD",165.8 ± 4.4,169.4 ± 5.7
+"Start (flexed) angle per rep (deg), mean ± SD",92.0 ± 2.7,98.0 ± 7.6
+"Range of motion per rep (deg), mean ± SD",73.8 ± 6.7,71.4 ± 9.9
+"Rep duration (s), mean ± SD",3.3 ± 0.6,3.0 ± 0.4
+Report rule: frames 'Good range of motion',39.3%,10.3%
+Report rule: frames 'Bend your knee further',60.7%,89.7%
+Extension check: reps 'Good range of motion',4 of 5,5 of 5
+Far (occluded) leg: frames with visibility < 0.5,22.6%,44.6%
+Far (occluded) leg: angle range (deg),27.6 to 130.6,78.7 to 117.7

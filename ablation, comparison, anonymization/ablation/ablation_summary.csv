@@ -1,0 +1,13 @@
+video,side,condition,frames,detection_rate_pct,paired_frames,bias_deg,loa_low_deg,loa_high_deg,mae_deg,max_abs_err_deg,pct_err_gt5,pct_err_gt10,pearson_r,rep_peak_mae_deg,face_detectable_pct
+Sagital_left.mov,left,raw,504,100.0,504,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.02,71.4
+Sagital_left.mov,left,face_blur,504,100.0,504,-1.7,-11.83,8.43,3.04,28.0,13.7,6.0,0.986,3.16,11.9
+Sagital_left.mov,left,background_removed,504,100.0,504,-19.47,-67.35,28.42,19.88,89.9,64.1,42.9,0.601,15.13,86.3
+Sagital_left.mov,left,silhouette,504,0.6,3,-54.21,-184.86,76.45,54.9,128.2,66.7,66.7,-0.981,,0.0
+Sagital_left.mov,left,pixelate_192,504,100.0,504,0.36,-8.8,9.52,2.87,26.0,14.1,3.2,0.989,3.21,53.0
+Sagital_left.mov,left,pixelate_96,504,83.5,421,5.86,-39.99,51.71,16.88,70.6,73.9,49.2,0.666,6.03,45.8
+Sagital_right.mov,right,raw,448,100.0,448,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.02,76.7
+Sagital_right.mov,right,face_blur,448,100.0,448,-2.33,-30.44,25.78,5.18,90.5,11.6,7.4,0.869,2.3,52.7
+Sagital_right.mov,right,background_removed,448,100.0,448,-33.08,-120.62,54.45,34.43,156.7,52.5,46.2,-0.294,29.57,36.0
+Sagital_right.mov,right,silhouette,448,0.0,0,,,,,,,,,,0.0
+Sagital_right.mov,right,pixelate_192,448,100.0,448,-2.59,-30.97,25.79,8.38,62.4,40.8,23.2,0.861,6.45,67.3
+Sagital_right.mov,right,pixelate_96,448,1.8,8,15.97,-45.46,77.39,27.47,54.7,87.5,75.0,-0.214,10.81,83.3

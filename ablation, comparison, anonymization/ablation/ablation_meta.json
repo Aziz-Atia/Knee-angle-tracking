@@ -1,0 +1,20 @@
+[
+  {
+    "video": "Sagital_left.mov",
+    "side": "left",
+    "frames": 504,
+    "raw_face_detected_pct": 72.2,
+    "face_blur_box_available_pct": 100.0,
+    "raw_reps": 5,
+    "wall_time_s": 269.2
+  },
+  {
+    "video": "Sagital_right.mov",
+    "side": "right",
+    "frames": 448,
+    "raw_face_detected_pct": 80.8,
+    "face_blur_box_available_pct": 99.6,
+    "raw_reps": 5,
+    "wall_time_s": 229.3
+  }
+]

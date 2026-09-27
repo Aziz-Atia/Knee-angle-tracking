@@ -1,0 +1,8 @@
+# Python 3.10 to 3.12
+mediapipe==0.10.21        # newer releases do not include mp.solutions (used by the teammate method)
+protobuf>=4.25.3,<5       # mediapipe 0.10.21 needs protobuf 4.x
+streamlit==1.60.0         # newer Streamlit installs protobuf 7 and breaks mediapipe
+imageio-ffmpeg            # bundled ffmpeg for browser-playable H.264 output
+scipy
+pandas
+matplotlib

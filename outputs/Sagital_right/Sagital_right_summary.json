@@ -1,0 +1,144 @@
+{
+  "video": "Sagital_right.mov",
+  "side": "right",
+  "side_selection": "manual",
+  "mediapipe_version": "0.10.21",
+  "opencv_version": "4.11.0",
+  "resolution": "2160x3840",
+  "total_frames": 448,
+  "frames_with_pose_detected": 448,
+  "detection_rate": 1.0,
+  "min_angle_deg": 87.95,
+  "max_angle_deg": 177.67,
+  "mean_angle_deg": 133.5,
+  "duration_s": 14.94,
+  "measured_fps": 30.0,
+  "container_fps_reported": 29.693,
+  "container_frame_count_reported": 454,
+  "teammate_time_error_at_last_frame_s": 0.148,
+  "read_failures_skipped": 0,
+  "inference_errors": 0,
+  "mean_min_visibility": 0.978,
+  "frames_low_visibility_pct": 0.0,
+  "other_leg": {
+    "side": "left",
+    "mean_min_visibility": 0.558,
+    "frames_low_visibility_pct": 44.6,
+    "min_angle_deg": 78.7,
+    "max_angle_deg": 117.7
+  },
+  "target_min_angle": 90.0,
+  "tolerance": 10.0,
+  "ext_target": 170.0,
+  "teammate_feedback_pct_of_detected_frames": {
+    "Bend your knee further to reach target depth": 89.7,
+    "Good range of motion": 10.3
+  },
+  "reps": [
+    {
+      "rep": 1,
+      "start_frame": 0,
+      "peak_frame": 39,
+      "end_frame": 77,
+      "start_s": 0.0,
+      "peak_s": 1.303,
+      "end_s": 2.57,
+      "peak_deg": 172.3,
+      "start_deg": 89.6,
+      "rom_deg": 82.6,
+      "duration_s": 2.57,
+      "feedback": "Good range of motion"
+    },
+    {
+      "rep": 2,
+      "start_frame": 77,
+      "peak_frame": 130,
+      "end_frame": 179,
+      "start_s": 2.57,
+      "peak_s": 4.337,
+      "end_s": 5.97,
+      "peak_deg": 167.8,
+      "start_deg": 89.7,
+      "rom_deg": 78.1,
+      "duration_s": 3.4,
+      "feedback": "Good range of motion"
+    },
+    {
+      "rep": 3,
+      "start_frame": 179,
+      "peak_frame": 222,
+      "end_frame": 257,
+      "start_s": 5.97,
+      "peak_s": 7.403,
+      "end_s": 8.572,
+      "peak_deg": 163.0,
+      "start_deg": 102.9,
+      "rom_deg": 60.1,
+      "duration_s": 2.6,
+      "feedback": "Good range of motion"
+    },
+    {
+      "rep": 4,
+      "start_frame": 257,
+      "peak_frame": 314,
+      "end_frame": 346,
+      "start_s": 8.572,
+      "peak_s": 10.472,
+      "end_s": 11.538,
+      "peak_deg": 166.2,
+      "start_deg": 104.0,
+      "rom_deg": 62.2,
+      "duration_s": 2.97,
+      "feedback": "Good range of motion"
+    },
+    {
+      "rep": 5,
+      "start_frame": 346,
+      "peak_frame": 404,
+      "end_frame": 444,
+      "start_s": 11.538,
+      "peak_s": 13.472,
+      "end_s": 14.805,
+      "peak_deg": 177.5,
+      "start_deg": 103.7,
+      "rom_deg": 73.9,
+      "duration_s": 3.27,
+      "feedback": "Good range of motion"
+    }
+  ],
+  "rep_count": 5,
+  "rep_peak_deg": {
+    "mean": 169.4,
+    "sd": 5.7,
+    "min": 163.0,
+    "max": 177.5
+  },
+  "rep_start_deg": {
+    "mean": 98.0,
+    "sd": 7.6,
+    "min": 89.6,
+    "max": 104.0
+  },
+  "rep_rom_deg": {
+    "mean": 71.4,
+    "sd": 9.9,
+    "min": 60.1,
+    "max": 82.6
+  },
+  "rep_duration_s": {
+    "mean": 3.0,
+    "sd": 0.4,
+    "min": 2.6,
+    "max": 3.4
+  },
+  "reps_good": 5,
+  "median_inference_ms_per_frame": 26.8,
+  "pipeline_wall_time_s": 56.4,
+  "video_codec": "h264",
+  "table1": {
+    "Detection rate": "100%",
+    "Min angle (deg)": "88.0",
+    "Max angle (deg)": "177.7",
+    "Mean angle (deg)": "133.5"
+  }
+}
